@@ -1,0 +1,25 @@
+.root{
+  text-align: center;
+  width: 60%;
+  height:100vh;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: aquamarine;
+}
+
+.ul{
+  list-style-type: none;
+}
+
+.floatingList{
+  float: left;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
